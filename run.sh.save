@@ -1,5 +1,0 @@
-#!/bin/bash
-r=$(( 0  ))
-t udpate 'Here commence the #OpG20HashtagHijack #G20 #Brisbane'
-sleep 60
-bash $r.sh
